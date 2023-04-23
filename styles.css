@@ -1,0 +1,70 @@
+body {
+ background-color: #fee2e2;
+}
+
+#home {
+    font-size: larger;
+    
+}
+#about {
+    
+    font-size: larger;
+    
+}
+#Work {
+    
+    font-size: large;
+}
+
+#Resume {
+    color: black;
+    font-size: medium;
+}
+#Contact {
+    color: black;
+}
+
+
+
+/* Style the links inside the navigation bar */
+
+.topnav {
+    font-family: 'Roboto', sans-serif; 
+    line-height: 0.8cm;  
+    margin: 0;
+    overflow: hidden;
+    background-color: black;
+    text-align: left;
+    font-size: smaller;
+}
+h1 {
+    text-align: center;
+    background-color: #39bd65;
+    padding: 2%;
+    margin-bottom: 0%;
+    padding: 1%;
+    margin-top: auto;    
+    
+}
+.topnav a{
+    color: #bec9c7;
+    font-size: larger;
+    position: sticky;
+    border-radius: 10%;
+    text-decoration: none;
+    margin: 2%;
+
+}
+
+.topnav a:hover {
+    background-color: #4b078b;
+    color: aqua;
+}
+
+div {
+    display: inline;
+}
+.topnav a:active {
+    color: red;
+
+}
